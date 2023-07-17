@@ -10,7 +10,6 @@ public class Mail {
     public Mail() {
 
     }
-
     public String getSender() {
         return this.sender;
     }
